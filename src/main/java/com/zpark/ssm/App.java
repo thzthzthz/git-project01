@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello Git! thz master first modify!");
         System.out.println("Hello Git! thz 1 first modify!");
         System.out.println("Hello GitHub! thz master first push GitHub!");
+        System.out.println("Hello GitHub! thz master first1 push GitHub!");
     }
 }
