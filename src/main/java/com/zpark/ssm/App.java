@@ -10,5 +10,6 @@ public class App {
         System.out.println("Hello GitHub! thz master first push GitHub!");
         System.out.println("Hello GitHub! thz master first1 push GitHub!");
         System.out.println("Test fetch pull from Github!");
+        System.out.println("Test fetch1 pull from Github!");
     }
 }
